@@ -1,0 +1,54 @@
+
+.controller{
+    border: 5px solid;
+    height: 450px;
+    width: 250px !important;
+    margin: 50px auto 0 auto;
+}
+
+.row{ 
+    margin-right: -9px !important;
+    margin-left: -9px !important;
+}
+
+.screen{
+    height: 250px;
+    border: 3px solid;
+    margin: 10px
+}
+
+.temp-row{
+    margin-top: 10px;
+    height: 110px;
+}
+
+.temp-inner-row{
+    height: 100%;
+}
+
+.marker-degrees{
+    margin-top: 35px;
+    font-size: 50px;
+}
+
+.row-degrees{
+    text-align: center;
+    margin-left: 0px !important;
+}
+
+.degrees{
+    text-align: center;
+    font-size: 130px;
+}
+
+.all-button{
+    width: 100%;
+}
+
+.options{
+    font-size: 11px;
+}
+
+.options-label{
+    font-weight: bold;
+}
